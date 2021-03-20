@@ -45,3 +45,7 @@ td {
 .formFormat {
     margin: 40px;
 }
+
+.flex-container {
+    display: flex;
+}
