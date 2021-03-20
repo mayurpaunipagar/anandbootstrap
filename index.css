@@ -49,3 +49,7 @@ td {
 .flex-container {
     display: flex;
 }
+
+.background-1 {
+    background-color: #f4f6fa;
+}
