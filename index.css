@@ -69,3 +69,12 @@ td {
     font-size: 50px;
     color: rgb(13, 54, 68);
 }
+
+.last {
+    font-weight: bold;
+    margin: 60px;
+}
+
+.boldclass {
+    font-weight: bold;
+}
