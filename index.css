@@ -54,3 +54,18 @@ td {
     background-color: #f4f6fa;
     padding: 50px;
 }
+
+.checked {
+    color: orange;
+}
+
+.feedback {
+    font-size: 25px;
+    height: 200px;
+    padding: 10px;
+}
+
+.star {
+    font-size: 50px;
+    color: rgb(13, 54, 68);
+}
